@@ -73,4 +73,4 @@ You can view the dataset used in this project here:
 ---
 
 ## 📎 Dashboard Snapshot  
-![Dashboard Screenshot](https://github.com/mjshubham21/Excel_Adidas_US_Sales/blob/main/Images/dashboard.png)
+![Dashboard Screenshot](https://github.com/mjshubham21/Excel_Adidas_US_Sales/blob/main/Images/dashboard1.png)
